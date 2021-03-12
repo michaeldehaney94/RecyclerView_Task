@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="increase_team2_h">70dp</dimen>
+    <dimen name="increase_team2_w">70dp</dimen>
+    <dimen name="decrease_team2_w">70dp</dimen>
+    <dimen name="decrease_team2_h">70dp</dimen>
+    <dimen name="decrease_team1_w">70dp</dimen>
+    <dimen name="decrease_team1_h">70dp</dimen>
+    <dimen name="increase_team1_w">70dp</dimen>
+    <dimen name="increase_team1_h">70dp</dimen>
+</resources>
